@@ -1,3 +1,3 @@
 # spacex-graphql-practice
 
-# Deployed App: https://mighty-cliffs-63556.herokuapp.com/
+# Deployed App: https://frozen-dusk-69672.herokuapp.com/
